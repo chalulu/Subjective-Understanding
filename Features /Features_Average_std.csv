@@ -1,3 +1,9 @@
-Feature Name,Fixation Count,Fixation Duration,Forward Saccade Count,Backward Saccade Count,Ratio Forward/Backward,Velocity,Forward Saccade length,Backward Saccade length
-Average values,111.530201,291.488403,82.1375839,28.3926175,3.1523712,0.32513206,114.990835,-327.46337
-Std values,65.8989013,70.1117596,49.1714355,19.4397248,1.38777256,0.10298249,39.6468,128.863624
+Feature Name,Average values,Std values
+Fixation Count,111.530201,65.8989013
+Fixation Duration,291.488403,70.1117596
+Forward Saccade Count,82.1375839,49.1714355
+Backward Saccade Count,28.3926175,19.4397248
+Ratio Forward/Backward,3.1523712,1.38777256
+Velocity,0.32513206,0.10298249
+Forward Saccade length,114.990835,39.6468
+Backward Saccade length,-327.46337,128.863624
