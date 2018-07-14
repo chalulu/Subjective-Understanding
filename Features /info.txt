@@ -1,0 +1,8 @@
+The following text file describes the content of the “Participants_Texts_Featurevalues.csv” and “Features_Average_std.csv” files.
+
+Participants_Texts_FeatureValues.csv
+This file contains the value of the features for each recording with the associated self rated subjective understanding and subject number.
+
+Features_Average_std” files.csv
+This file contains the average and standard deviation values for all the features.
+These values are computed over all the recordings.
