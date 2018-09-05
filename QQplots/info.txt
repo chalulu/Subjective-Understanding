@@ -1,0 +1,7 @@
+This file describes the content of the folder "QQplots"
+
+The png files are quantile-quantile plots of the features (standardized) used in the algorithm.
+
+The file "QQ plot data subj understanding.xlsx" contains the data used to compute the QQ plots of the different features (feature values, z scores).
+
+The file "QQ plots data features" contains the data used to compute the QQ plot of the average subjective understanding values (average subj. understanding for each participant over all texts, z scores).
